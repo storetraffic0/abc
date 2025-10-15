@@ -1,0 +1,42 @@
+# Aktifkan Mesin Rewrite URL Apache
+RewriteEngine On
+
+# Hindari konflik dengan fitur MultiViews Apache
+Options -MultiViews
+
+# ====================================================================
+# BAGIAN 1: Mengalihkan URL lama (.php) ke URL baru (tanpa .php)
+# Ini akan melakukan redirect 301 (permanen) untuk SEO dan konsistensi.
+# ====================================================================
+
+# Kondisi: HANYA jalankan aturan di bawah jika URL yang diminta BUKAN file-file endpoint penting.
+RewriteCond %{REQUEST_URI} !^/ssp\.php$
+RewriteCond %{REQUEST_URI} !^/ssp_banner\.php$
+RewriteCond %{REQUEST_URI} !^/ssp_pop\.php$
+RewriteCond %{REQUEST_URI} !^/banner\.php$
+RewriteCond %{REQUEST_URI} !^/banner_frame\.php$
+RewriteCond %{REQUEST_URI} !^/vast\.php$
+RewriteCond %{REQUEST_URI} !^/pop.js\.php$
+RewriteCond %{REQUEST_URI} !^/api/
+RewriteCond %{REQUEST_URI} !^/admin/
+RewriteCond %{REQUEST_URI} !^/includes/
+RewriteCond %{REQUEST_URI} !^/auth_user\.php$
+
+# Aturan: Jika request mengandung .php, alihkan ke versi tanpa .php
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+RewriteRule (.+?)\.php$ /$1 [R=301,L]
+
+
+# ====================================================================
+# BAGIAN 2: Secara internal memuat file .php saat URL bersih diminta
+# Inilah yang membuat URL tanpa .php bisa berfungsi.
+# ====================================================================
+
+# Kondisi: Jalankan aturan hanya jika URL yang diminta BUKAN file yang ada
+RewriteCond %{REQUEST_FILENAME} !-f
+# Dan BUKAN direktori yang ada
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Aturan: Ambil URL yang diminta (misal: "admin/dashboard") dan coba muat file "admin/dashboard.php"
+RewriteRule ^(.*)$ $1.php [L,QSA]
+

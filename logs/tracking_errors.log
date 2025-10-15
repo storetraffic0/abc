@@ -1,0 +1,208 @@
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=104&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=102&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=106&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=113&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=113&zid=445567&sid=12346&cc=MDV&impid=imp_68ee93fde9946&uid=dbab1c793ba9bd6c904f72a4aaee5e75&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=KHM&impid=imp_68ee93fc06c4e&uid=a1794e849cbfeaf79fdce4645f94b4d4&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93fdaa9ff&uid=7b079400ebc9eb036c1d16257c5b03f0&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93fd7eb4e&uid=0030434f092237edfb35259cfd55203d&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93fe634fa&uid=6772210e913cf0f37357cf0babe07718&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=SAU&impid=imp_68ee93fda7f8b&uid=c6b2dfbe6bc45be52605eae87a7d56c2&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:39] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=IND&impid=imp_68ee93fc24cc7&uid=129b999001b4188f87e227fef68bd6ed&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=UKR&impid=imp_68ee93fe08701&uid=766463a3db91d0d4a2abf65a7e4cef05&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=104&zid=445571&sid=12349&cc=KAZ&impid=imp_68ee93fa8fb5c&uid=d2526a9eb6876481580a3c2b153304585&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.0081977
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=AZE&impid=imp_68ee93fc81392&uid=c5c5d408dd22b23091a872804ad22b1a&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=AFG&impid=imp_68ee93fa20182&uid=97b261ca9f8c716a6f723037fad8fe34&os=macOS&dev=Desktop&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=104&zid=445571&sid=12349&cc=KAZ&impid=imp_68ee93fa35e07&uid=dbb26cb1af0fc3a383a8ad11fede23762&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.0081977
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93fe5d5b4&uid=ecdd4737b3c73ccaec3204b1b67f543c&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=101&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=103&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=114&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93fd622cb&uid=b5f8eeb76548bceaf0615ac17361c70d&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=TUR&impid=imp_68ee93fd8f064&uid=0977223c0a6f653a62054b0363985d74&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93fe0a289&uid=ba99d26af9df8bd067a8bcaab9580c71&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=UKR&impid=imp_68ee93ff1afa8&uid=850a5a98cd13de34b3c687d4a8633291&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=104&zid=445571&sid=12349&cc=KAZ&impid=imp_68ee93fa8bcfd&uid=d2526a9eb6876481580a3c2b153304585&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.0081977
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=101&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=101&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=106&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=104&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=113&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=CHN&impid=imp_68ee93fdef3f4&uid=bb5f0155ed874dea72c5617ab8c6a9c7&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=BGD&impid=imp_68ee93fd0fc7b&uid=1bf13eda1d8d890e3b7ed0637616d6fc&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=103&zid=445571&sid=12349&cc=MEX&impid=imp_68ee93fe1da85&uid=d392e292ba64e983b98214c5a36b96dea&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.0315
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=IDN&impid=imp_68ee93fe34457&uid=2c7e09819d5621b5f8b15404ea0ca232&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=PHL&impid=imp_68ee93fe2bb13&uid=5bace3fbcb796f8a9bda1f66d0bf1b3d&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:40] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93ff3cc12&uid=e5399341f625d785962ec57dd11015ef&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=113&zid=445567&sid=12346&cc=MNG&impid=imp_68ee93ff50e29&uid=1c5b79b5aed8c7fffba529e4c8c7d880&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=SAU&impid=imp_68ee93fdcf114&uid=c6b2dfbe6bc45be52605eae87a7d56c2&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=IND&impid=imp_68ee93faf2c3a&uid=bd475bb1199345c508a5aed7b3b2ae93&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=JPN&impid=imp_68ee93fd11e76&uid=8e5165a22168ed134c5ae0bcc6b3bfe7&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=114&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=106&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=106&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=101&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=106&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=104&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=PHL&impid=imp_68ee93fce04bd&uid=77c3137e27d755873dcd8ac5228564e2&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=113&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=103&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=103&zid=445567&sid=12346&cc=UKR&impid=imp_68ee93febae2d&uid=712f2286ceb1be5305e988582d49b8cf&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.0081977
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=BLR&impid=imp_68ee93ff53a48&uid=59e3c474fd41aae8fe1c349d70017410&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=IND&impid=imp_68ee93fb83817&uid=ff089a93ca4f2dd99111cd0014f74ff3&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=DZA&impid=imp_68ee93fe79b25&uid=e79afeed629a7c41a7757f31040d1e2a&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=GBR&impid=imp_68ee93fe93eb4&uid=0ac03f33d738aed8f76d62d8a67133ef&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=CHN&impid=imp_68ee93fcd8615&uid=c21e0a619498407ea4b9ff3d62c989af&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=104&zid=445567&sid=12346&cc=NPL&impid=imp_68ee93fe1103b&uid=2c33f85fb370d08dbb635c45e26f741a&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.019756457
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=PHL&impid=imp_68ee93ff6e24a&uid=f3200920c7e132fd2e43a2f9517c5c54&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=AZE&impid=imp_68ee93fe3fdd7&uid=09d94539ce46fa157cc0ff176c5a5e96&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=113&zid=445567&sid=12346&cc=IDN&impid=imp_68ee93ff5944a&uid=e8ea091a04b7ca34d3aade4f561f10e0&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=EGY&impid=imp_68ee93fedc57a&uid=3ecce4ba6ef2cd5b36774a12a47a5911&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:41] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=PHL&impid=imp_68ee93fd6317c&uid=01e003e3e728043697dcf1b7111c0732&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=113&zid=445567&sid=12346&cc=GBR&impid=imp_68ee93fc760e6&uid=b98e82fb6ad270f4028014c95cc47a59&os=macOS&dev=Desktop&brw=Firefox&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=PHL&impid=imp_68ee93feb962d&uid=febdbd675a0d17adde35ce86fd57ce95&os=macOS&dev=Desktop&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=114&zid=445571&sid=12349&cc=POL&impid=imp_68ee93fc94fed&uid=de1bad3a20a28f5a25f789fc9deea2d60&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=AZE&impid=imp_68ee93ffaf25a&uid=a977aa78e24b28b3907ab1717172811a&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=TWN&impid=imp_68ee93fed79cf&uid=0ae0f87cea88f064cb61db31d41661da&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=EGY&impid=imp_68ee93f9b84ce&uid=1783df3d66ebf716b1f0ca091c532dcd&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=103&zid=445571&sid=12349&cc=MEX&impid=imp_68ee93ff25c83&uid=dd1f08ef445f4daed9bd3c763208838e8&os=Android&dev=Mobile&brw=Edge&event=impression&price=0.0315
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=IDN&impid=imp_68ee93ffa3368&uid=06a51e44aaeedd4b15eda789761dbb5c&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=103&zid=445571&sid=12349&cc=MEX&impid=imp_68ee93ff248b7&uid=dd1f08ef445f4daed9bd3c763208838e8&os=Android&dev=Mobile&brw=Edge&event=impression&price=0.0315
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=104&zid=445571&sid=12349&cc=KAZ&impid=imp_68ee93ff2f544&uid=d93c355da4588d6a0599f3fe8525ec22d&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.0081977
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=113&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=106&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=115&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=113&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=101&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=PHL&impid=imp_68ee93f612e37&uid=893db164f90ed3ea2c332527ed14bc83&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:42] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=IDN&impid=imp_68ee93fe40ce4&uid=0e36641c2c9786b60aef9f9252f90827&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.001
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=104&zid=445571&sid=12349&cc=KAZ&impid=imp_68ee93f71892e&uid=d9b96c11e80091dc77bc78149603f6da4&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.0081977
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=105&zid=445567&sid=12346&cc=IDN&impid=imp_68ee93ff7c691&uid=6a32b3769b4d96fb17616df2f87caabe&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445567&sid=12346&cc=EGY&impid=imp_68ee93fdd402f&uid=fb9ebe64fef758d452cfd1dc95c9984f&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=115&zid=445571&sid=12349&cc=POL&impid=imp_68ee93fd493b6&uid=de1bad3a20a28f5a25f789fc9deea2d60&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=105&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=113&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=104&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=BGD&impid=imp_68ee93f917e96&uid=30f288c7d5a7ce87cf7e9cc8b43a33d9&os=Android&dev=Mobile&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=PAK&impid=imp_68ee93f9aad16&uid=ac3ccd817cced10ab38edb11a7e0dd13&os=Windows&dev=Desktop&brw=Chrome&event=impression&price=0.001
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: event=win&cid=113&impid=1&pid=3&sid=12349&zid=445571&price=%24%7BAUCTION_PRICE%7D
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=104&zid=445571&sid=12349&cc=KAZ&impid=imp_68ee92e16f7b5&uid=db78867c2ef61036a7945967af3bed528&os=Android&dev=Mobile&brw=Chrome&event=click
+[2025-10-14 18:18:43] DB ERROR in track.php: SQLSTATE[HY000] [2002] No such file or directory
+Query Parameters: cid=106&zid=445567&sid=12346&cc=PHL&impid=imp_68ee93ffa8504&uid=aad073e193345d5d6d7decdc9b6b8393&os=iOS&dev=Mobile&brw=Safari&event=impression&price=0.001
